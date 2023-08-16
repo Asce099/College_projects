@@ -1,5 +1,5 @@
 # Learning Sem 1 
-This repository showcases authors completed projects. 
+This repository showcases authors completed college projects of 1st Semester. 
 The projects cover following domain 
 -NLP
 -Data Visualization 
@@ -8,3 +8,4 @@ The projects cover following domain
 -Data Mining
 -Machine Learning
 -Web Scraping
+
