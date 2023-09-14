@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Fraud_Detection/Assignment.ipynb
+Fraud/Fraud_Detection/Fraud_Detection_autoencoder.ipynb
