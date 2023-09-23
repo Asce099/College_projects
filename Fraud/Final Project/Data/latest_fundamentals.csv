@@ -1,0 +1,859 @@
+,name,Ticker,industry,NIFTY closing,Date,Market Capitalisation,EPS,P/E,P/B
+0,Avenue Supermarts Ltd.,DMART,Retail,17359.75,31-03-2023,2204778.2,37.32,91.13,13.36
+1,Canara Bank,CANBK,Banks,17359.75,31-03-2023,516029.35,56.59,5.03,0.78
+2,Cummins India Ltd.,CUMMINSIND,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,451725.12,40.66,40.08,8.42
+3,Cupid Ltd.,CUPID,Miscellaneous,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+5,Cybertech Systems & Software Ltd.,CYBERTECH,IT - Software,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+6,Cyient Ltd.,CYIENT,IT - Software,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+7,D B Realty Ltd.,DBREALTY,Realty,17359.75,31-03-2023,2835.92,5.58,17.84,2.18
+8,D-Link (India) Ltd.,DLINKINDIA,IT - Hardware,17359.75,31-03-2023,110049.77,30.89,32.22,4.07
+9,Dabur India Ltd.,DABUR,FMCG,17359.75,31-03-2023,22713.98,1.0,64.4,0.78
+12,Datamatics Global Services Ltd.,DATAMATICS,IT - Software,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+13,De Nora India Ltd.,DENORA,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+14,Deccan Cements Ltd.,DECCANCE,Cement,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+15,Deepak Nitrite Ltd.,DEEPAKNTR,Chemicals,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+16,Delta Corp Ltd.,DELTACORP,Entertainment,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+18,Den Networks Ltd.,DEN,Entertainment,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+19,Dev Information Technology Ltd.,DEVIT,IT - Software,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+20,Dhampur Sugar Mills Ltd.,DHAMPURSUG,Sugar,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+21,Dhanlaxmi Bank Ltd.,DHANBANK,Banks,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+22,Dhanuka Agritech Ltd.,DHANUKA,Agro Chemicals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+26,Dhunseri Investments Ltd.,DHUNINV,Finance,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+27,Dhunseri Ventures Ltd.,DVL,Petrochemicals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+31,Dixon Technologies (India) Ltd.,DIXON,Consumer Durables,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+32,Dollar Industries Ltd.,DOLLAR,Textiles,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+33,Donear Industries Ltd.,DONEAR,Textiles,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+34,Ducon Infratechnologies Ltd.,DUCON,IT - Software,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+35,Dynacons Systems & Solutions Ltd.,DSSL,IT - Software,17359.75,31-03-2023,16753.4,17.49,16.24,2.18
+36,Dynamatic Technologies Ltd.,DYNAMATECH,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4521.1,36.26,23.49,4.45
+39,Edelweiss Financial Services Ltd.,EDELWEISS,Finance,17359.75,31-03-2023,48354.52,8.28,21.83,2.23
+41,Eicher Motors Ltd.,EICHERMOT,Automobile,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+42,Eimco Elecon (India) Ltd.,EIMCOELECO,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+43,Electrosteel Castings Ltd.,ELECTCAST,"Castings, Forgings & Fastners",17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+45,Elgi Equipments Ltd.,ELGIEQUIP,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+46,Emami Ltd.,EMAMILTD,FMCG,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+47,Emami Paper Mills Ltd.,EMAMIPAP,Paper,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+50,Emkay Global Financial Services Ltd.,EMKAY,Stock/ Commodity Brokers,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+51,Emkay Taps & Cutting Tools Ltd.,EMKAYTOOLS,Engineering,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+52,Emmbi Industries Ltd.,EMMBI,Packaging,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+53,Endurance Technologies Ltd.,ENDURANCE,Auto Ancillaries,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+54,Engineers India Ltd.,ENGINERSIN,Infrastructure Developers & Operators,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+56,Equitas Small Finance Bank Ltd.,EQUITAS,Finance,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+57,Eris Lifesciences Ltd.,ERIS,Pharmaceuticals,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+59,Esab India Ltd.,ESABINDIA,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+61,Ester Industries Ltd.,ESTER,Packaging,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+63,Excel Industries Ltd.,EXCEL,IT - Software,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+64,Excel Industries Ltd.,EXCELINDUS,Chemicals,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+65,Exide Industries Ltd.,EXIDEIND,Auto Ancillaries,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+66,Expleo Solutions Ltd.,EXPLEOSOL,IT - Software,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+67,Federal Bank Ltd.,FEDERALBNK,Banks,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+68,Federal-Mogul Goetze (India) Ltd.,FMGOETZE,Auto Ancillaries,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+69,Fiem Industries Ltd.,FIEMIND,Auto Ancillaries,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+70,Filatex India Ltd.,FILATEX,Textiles,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+71,Fineotex Chemical Ltd.,FCL,Chemicals,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+72,Finolex Cables Ltd.,FINCABLES,Cables,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+73,Finolex Industries Ltd.,FINPIPE,Plastic products,17359.75,31-03-2023,3656.02,1.25,11.57,0.45
+74,Firstsource Solutions Ltd.,FSL,IT - Software,17359.75,31-03-2023,27866.59,45.5,13.44,2.63
+75,Fortis Healthcare Ltd.,FORTIS,Healthcare,17359.75,31-03-2023,3654.65,11.79,50.83,1.04
+76,Foseco India Ltd.,FOSECOIND,Chemicals,17359.75,31-03-2023,7637.15,34.45,6.33,0.53
+81,Gabriel India Ltd.,GABRIEL,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+82,Gallantt Ispat Ltd.,GALLISPAT,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+83,Gandhi Special Tubes Ltd.,GANDHITUBE,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+84,Ganesha Ecosphere Ltd.,GANECOS,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+85,Garden Reach Shipbuilders & Engineers Ltd.,GRSE,Ship Building,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+86,Gateway Distriparks Ltd.,GDL,Logistics,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+87,Gati Ltd.,GATI,Logistics,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+88,Geekay Wires Ltd.,GEEKAYWIRE,Cables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+90,Genus Power Infrastructures Ltd.,GENUSPOWER,Consumer Durables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+91,Gillette India Ltd.,GILLETTE,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+93,Glenmark Pharmaceuticals Ltd.,GLENMARK,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+96,Globe International Carriers Ltd.,GLOBE,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+97,Globus Spirits Ltd.,GLOBUSSPR,Alcoholic Beverages,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+98,Godfrey Phillips India Ltd.,GFLLIMITED,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+99,Godfrey Phillips India Ltd.,GODFRYPHLP,Tobacco Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+100,Godrej Agrovet Ltd.,GODREJAGRO,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+101,Godrej Consumer Products Ltd.,GODREJCP,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+102,Godrej Industries Ltd.,GODREJIND,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+103,Godrej Properties Ltd.,GODREJPROP,Realty,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+105,Gokaldas Exports Ltd.,GOKEX,Readymade Garments/ Apparells,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+107,Goldiam International Ltd.,GOLDIAM,"Diamond, Gems and Jewellery",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+108,Granules India Ltd.,GRANULES,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+109,Gravita India Ltd.,GRAVITA,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+110,Greaves Cotton Ltd.,GREAVESCOT,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+111,Greenpanel Industries Ltd.,GREENPANEL,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+112,Greenply Industries Ltd.,GREENPLY,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+113,Grindwell Norton Ltd.,GRINDWELL,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+114,Gufic Biosciences Ltd.,GUFICBIO,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+115,Gujarat Alkalies & Chemicals Ltd.,GUJALKALI,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+116,Gujarat Ambuja Exports Ltd.,GAEL,Edible Oil,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+117,Gujarat Gas Ltd.,GUJGASLTD,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+119,Gujarat Narmada Valley Fertilizers & Chemicals Ltd.,GNFC,Fertilizers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+120,Gujarat Pipavav Port Ltd.,GPPL,Marine Port & Services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+121,Gujarat State Fertilizers & Chemicals Ltd.,GSFC,Fertilizers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+122,Gujarat State Petronet Ltd.,GSPL,Gas Distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+123,Gulf Oil Lubricants India Ltd.,GULFOILLUB,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+124,Gulshan Polyols Ltd.,GULPOLY,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+125,Harrisons Malayalam Ltd.,HARRMALAYA,Plantation & Plantation Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+126,Hathway Cable & Datacom Ltd.,HATHWAY,Entertainment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+127,Havells India Ltd.,HAVELLS,Capital Goods - Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+128,Heidelberg Cement India Ltd.,HEIDELBERG,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+129,Hercules Hoists Ltd.,HERCULES,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+130,Hester Biosciences Ltd.,HESTERBIO,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+132,Hi-Tech Pipes Ltd.,HITECH,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+133,Hi-Tech Pipes Ltd.,HITECHCORP,Packaging,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+135,Hindalco Industries Ltd.,HINDALCO,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+136,Hindustan Aeronautics Ltd.,HAL,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+137,Hindustan Copper Ltd.,HINDCOPPER,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+140,Hindustan Unilever Ltd.,HINDUNILVR,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+141,Hindustan Zinc Ltd.,HINDZINC,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+142,Honeywell Automation India Ltd.,HONAUT,Consumer Durables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+144,Ice Make Refrigeration Ltd.,ICEMAKE,Engineering,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+145,Ind-Swift Laboratories Ltd.,INDSWFTLAB,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+147,Indbank Merchant Banking Services Ltd.,INDBANK,Stock/ Commodity Brokers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+148,India Glycols Ltd.,INDIAGLYCO,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+149,India Nippon Electricals Ltd.,INDNIPPON,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+151,Indian Bank,INDIANB,Banks,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+152,Indian Energy Exchange Ltd.,IEX,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+153,Indian Metals & Ferro Alloys Ltd.,IMFA,Mining & Mineral products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+154,Indian Overseas Bank,IOB,Banks,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+155,Indian Terrain Fashions Ltd.,INDTERRAIN,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+157,Indo Tech Transformers Ltd.,INDOTECH,Capital Goods - Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+159,Indoco Remedies Ltd.,INDOCO,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+162,Indraprastha Gas Ltd.,IGL,Gas Distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+163,Industrial Investment Trust Ltd.,IITL,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+164,Infibeam Avenues Ltd.,INFIBEAM,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+165,Info Edge (India) Ltd.,NAUKRI,E-Commerce/App based Aggregator,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+166,Infosys Ltd.,INFY,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+167,Innovana Thinklabs Ltd.,INNOVANA,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+169,Insecticides (India) Ltd.,INSECTICID,Agro Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+170,Inspirisys Solutions Ltd.,INSPIRISYS,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+171,Intellect Design Arena Ltd.,INTELLECT,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+172,Intellect Design Arena Ltd.,INTENTECH,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+173,Intrasoft Technologies Ltd.,ISFT,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+174,Inventure Growth & Securities Ltd.,INVENTURE,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+175,Jagran Prakashan Ltd.,JAGRAN,Media - Print/Television/Radio,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+176,Jagsonpal Pharmaceuticals Ltd.,JAGSNPHARM,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+177,Jai Corp Ltd.,JAICORPLTD,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+178,Jain Irrigation Systems Ltd.,JISLJALEQS,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+181,Jaiprakash Power Ventures Ltd.,JPPOWER,Power Generation & Distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+183,Jammu & Kashmir Bank Ltd.,J&KBANK,Banks,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+184,Jash Engineering Ltd.,JASH,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+185,Jay Bharat Maruti Ltd.,JAYBARMARU,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+186,Jayant Agro-Organics Ltd.,JAYAGROGN,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+189,Jet Freight Logistics Ltd.,JETFREIGHT,Air Transport Service,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+190,Jet Knitwears Ltd.,JETKNIT,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+191,Jindal Photo Ltd.,JINDALPHOT,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+192,Jindal Poly Films Ltd.,JINDALPOLY,Packaging,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+193,Jindal Stainless Ltd.,JSL,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+194,Jindal Steel & Power Ltd.,JINDALSTEL,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+195,Jindal Worldwide Ltd.,JINDWORLD,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+197,Jubilant Foodworks Ltd.,JUBLFOOD,Quick Service Restaurant,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+198,Jubilant Industries Ltd.,JUBLINDS,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+199,Jullundur Motor Agency (Delhi) Ltd.,JMA,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+200,Just Dial Ltd.,JUSTDIAL,E-Commerce/App based Aggregator,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+201,Jyothy Labs Ltd.,JYOTHYLAB,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+203,Kabra Extrusion Technik Ltd.,KABRAEXTRU,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+204,Kajaria Ceramics Ltd.,KAJARIACER,Ceramic Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+205,Kalyani Forge Ltd.,KALYANIFRG,"Castings, Forgings & Fastners",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+206,Kalyani Steels Ltd.,KSL,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+207,Kamat Hotels (India) Ltd.,KAMATHOTEL,Hotels & Restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+208,Kamdhenu Ltd.,KAMDHENU,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+209,Kanani Industries Ltd.,KANANIIND,"Diamond, Gems and Jewellery",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+210,Kansai Nerolac Paints Ltd.,KANSAINER,Paints/Varnish,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+211,Karma Energy Ltd.,KARMAENG,Power Generation & Distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+212,Karur Vysya Bank Ltd.,KARURVYSYA,Banks,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+215,Kellton Tech Solutions Ltd.,KELLTONTEC,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+216,Kennametal India Ltd.,KENNAMET,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+218,Kesoram Industries Ltd.,KESORAMIND,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+219,Kewal Kiran Clothing Ltd.,KKCL,Readymade Garments/ Apparells,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+220,Keynote Financial Services Ltd.,KEYFINSERV,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+221,Khadim India Ltd.,KHADIM,Leather,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+222,Khaitan (India) Ltd.,KHAITANLTD,Trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+223,Khandwala Securities Ltd.,KHANDSE,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+224,Kilitch Drugs (India) Ltd.,KILITCH,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+225,Kingfa Science & Technology (India) Ltd.,KINGFA,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+227,Kirloskar Brothers Ltd.,KIRLOSBROS,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+228,Kirloskar Industries Ltd.,KIRLOSIND,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+229,Kirloskar Oil Engines Ltd.,KIRLOSENG,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+230,Kitex Garments Ltd.,KITEX,Readymade Garments/ Apparells,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+231,Kokuyo Camlin Ltd.,KOKUYOCMLN,Printing & Stationery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+232,Kopran Ltd.,KOPRAN,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+233,Kotak Mahindra Bank Ltd.,KOTAKBANK,Banks,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+234,Kothari Petrochemicals Ltd.,KOTHARIPET,Petrochemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+235,Kothari Products Ltd.,KOTHARIPRO,Trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+237,Kshitij Polyline Ltd.,KSHITIJPOL,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+238,Kuantum Papers Ltd.,KUANTUM,Paper,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+239,Lagnam Spintex Ltd.,LAGNAM,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+240,Lakshmi Machine Works Ltd.,LAXMIMACH,Engineering,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+242,Lambodhara Textiles Ltd.,LAMBODHARA,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+243,Larsen & Toubro Ltd.,LT,Infrastructure Developers & Operators,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+245,Laurus Labs Ltd.,LAURUSLABS,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+247,Lemon Tree Hotels Ltd.,LEMONTREE,Hotels & Restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+249,Liberty Shoes Ltd.,LIBERTSHOE,Leather,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+250,Lincoln Pharmaceuticals Ltd.,LINCOLN,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+251,Linde India Ltd.,LINDEINDIA,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+252,Lokesh Machines Ltd.,LOKESHMACH,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+254,Lumax Auto Technologies Ltd.,LUMAXTECH,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+255,Lumax Industries Ltd.,LUMAXIND,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+256,Lupin Ltd.,LUPIN,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+257,Lux Industries Ltd.,LUXIND,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+259,Lypsa Gems & Jewellery Ltd.,LYPSAGEMS,"Diamond, Gems and Jewellery",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+260,Maan Aluminium Ltd.,MAANALU,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+262,Madhucon Projects Ltd.,MADHUCON,Construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+264,Magadh Sugar & Energy Ltd.,MAGADSUGAR,Sugar,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+265,Magnum Ventures Ltd.,MAGNUM,Paper,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+266,Mahanagar Gas Ltd.,MGL,Gas Distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+268,Maharashtra Scooters Ltd.,MAHSCOOTER,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+269,Maharashtra Seamless Ltd.,MAHSEAMLES,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+270,Maheshwari Logistics Ltd.,MAHESHWARI,Logistics,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+271,Mahindra & Mahindra Financial Services Ltd.,M&MFIN,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+272,Mahindra & Mahindra Ltd.,M&M,Automobile,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+275,Mahindra Lifespace Developers Ltd.,MAHICKRA,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+276,Mahindra Logistics Ltd.,MAHLOG,Logistics,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+277,Maithan Alloys Ltd.,MAITHANALL,Mining & Mineral products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+279,Man Industries (India) Ltd.,MANINDS,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+280,Man Infraconstruction Ltd.,MANINFRA,Construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+281,Manaksia Ltd.,MANAKSIA,Non Ferrous Metals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+282,Manaksia Steels Ltd.,MANAKSTEEL,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+283,Manali Petrochemicals Ltd.,MANALIPETC,Petrochemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+284,Manappuram Finance Ltd.,MANAPPURAM,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+285,Mangalam Cement Ltd.,MANGALAM,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+286,Mangalam Global Enterprise Ltd.,MGEL,Edible Oil,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+289,Marathon Nextgen Realty Ltd.,MARATHON,Realty,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+290,Marico Ltd.,MARICO,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+291,Marine Electricals (India) Ltd.,MARINE,Capital Goods - Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+292,Marksans Pharma Ltd.,MARKSANS,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+294,Maruti Suzuki India Ltd.,MARUTI,Automobile,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+295,Mask Investments Ltd.,MASKINVEST,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+296,Mastek Ltd.,MASTEK,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+297,Mawana Sugars Ltd.,MAWANASUG,Sugar,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+298,Max Financial Services Ltd.,MFSL,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+299,Mayur Uniquoters Ltd.,MAYURUNIQ,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+300,Mazda Ltd.,MAZDA,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+301,Megasoft Ltd.,MEGASOFT,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+303,Menon Bearings Ltd.,MENONBE,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+306,Metropolis Healthcare Ltd.,METROPOLIS,Healthcare,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+307,Minda Corporation Ltd.,MINDACORP,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+308,Mindteck (India) Ltd.,MINDTECK,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+309,Mirza International Ltd.,MIRZAINT,Leather,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+310,Mishra Dhatu Nigam Ltd.,MIDHANI,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+311,Mittal Life Style Ltd.,MITTAL,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+312,Modi Rubber Ltd.,MODIRUBBER,Tyres,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+315,Moksh Ornaments Ltd.,MOKSH,"Diamond, Gems and Jewellery",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+316,Mold-Tek Packaging Ltd.,MOLDTKPAC,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+317,Mold-Tek Technologies Ltd.,MOLDTECH,Engineering,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+318,Monte Carlo Fashions Ltd.,MONTECARLO,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+320,Morepen Laboratories Ltd.,MOREPENLAB,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+321,Motilal Oswal Financial Services Ltd.,MOTILALOFS,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+323,Mukta Arts Ltd.,MUKTAARTS,Entertainment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+324,Munjal Showa Ltd.,MUNJALSHOW,Auto Ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+325,Murudeshwar Ceramics Ltd.,MURUDCERA,Ceramic Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+326,Muthoot Capital Services Ltd.,MUTHOOTCAP,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+327,Muthoot Finance Ltd.,MUTHOOTFIN,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+330,Nahar Industrial Enterprises Ltd.,NAHARINDUS,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+331,Nahar Poly Films Ltd.,NAHARPOLY,Packaging,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+332,Nahar Spinning Mills Ltd.,NAHARSPING,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+334,Narayana Hrudayalaya Ltd.,NH,Healthcare,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+335,Natco Pharma Ltd.,NATCOPHARM,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+336,Nath Bio-Genes (India) Ltd.,NATHBIOGEN,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+337,National Fertilizers Ltd.,NFL,Fertilizers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+338,Navkar Corporation Ltd.,NAVKARCORP,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+339,Navneet Education Ltd.,NAVNETEDUL,Media - Print/Television/Radio,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+341,Nelcast Ltd.,NELCAST,"Castings, Forgings & Fastners",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+342,Neogen Chemicals Ltd.,NEOGEN,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+343,Nesco Ltd.,NESCO,Miscellaneous,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+344,Nestle India Ltd.,NESTLEIND,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+345,Neuland Laboratories Ltd.,NEULANDLAB,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+346,New Delhi Television Ltd.,NDTV,Media - Print/Television/Radio,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+347,Newgen Software Technologies Ltd.,NEWGEN,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+349,Nila Infrastructures Ltd.,NILAINFRA,Construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+351,Nilkamal Ltd.,NILKAMAL,Plastic products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+353,Nitin Spinners Ltd.,NITINSPIN,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+354,Norben Tea & Exports Ltd.,NORBTEAEXP,Plantation & Plantation Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+355,Nucleus Software Exports Ltd.,NUCLEUS,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+356,Oberoi Realty Ltd.,OBEROIRLTY,Realty,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+358,Oil India Ltd.,OIL,Crude Oil & Natural Gas,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+359,Olectra Greentech Ltd.,OLECTRA,Telecomm Equipment & Infra Services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+363,Onelife Capital Advisors Ltd.,ONELIFECAP,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+364,Onward Technologies Ltd.,ONWARDTEC,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+365,Optiemus Infracom Ltd.,OPTIEMUS,Trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+367,Oracle Financial Services Software Ltd.,OFSS,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+368,Orbit Exports Ltd.,ORBTEXP,Textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+369,Orient Bell Ltd.,ORIENTBELL,Ceramic Products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+370,Orient Cement Ltd.,ORIENTCEM,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+371,Orient Electric Ltd.,ORIENTELEC,Consumer Durables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+373,Oriental Aromatics Ltd.,OAL,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+374,Oriental Carbon & Chemicals Ltd.,OCCL,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+375,Oriental Hotels Ltd.,ORIENTHOT,Hotels & Restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+378,Oswal Agro Mills Ltd.,OSWALAGRO,Realty,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+379,Page Industries Ltd.,PAGEIND,Readymade Garments/ Apparells,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+380,Paisalo Digital Ltd.,PAISALO,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+381,Palash Securities Ltd.,PALASHSECU,Finance,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+382,Palred Technologies Ltd.,PALREDTEC,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+384,Panache Digilife Ltd.,PANACHE,IT - Hardware,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+385,Panama Petrochem Ltd.,PANAMAPET,Petrochemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+386,Parag Milk Foods Ltd.,PARAGMILK,FMCG,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+387,Paramount Communications Ltd.,PARACABLES,Cables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+389,Patel Engineering Ltd.,PATELENG,Construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+390,Patel Integrated Logistics Ltd.,PATINTLOG,Logistics,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+392,Pennar Industries Ltd.,PENIND,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+393,Pennar Industries Ltd.,PENINLAND,Realty,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+394,Persistent Systems Ltd.,PERSISTENT,IT - Software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+395,Pfizer Ltd.,PFIZER,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+396,Pidilite Industries Ltd.,PIDILITIND,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+398,Piramal Enterprises Ltd.,PEL,Pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+399,Plastiblends India Ltd.,PLASTIBLEN,Chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+400,Poly Medicure Ltd.,POLYMED,Healthcare,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+401,Polyplex Corporation Ltd.,POLYPLEX,Packaging,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+402,Ponni Sugars (Erode) Ltd.,PONNIERODE,Sugar,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+403,Power Mech Projects Ltd.,POWERMECH,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+405,Prakash Industries Ltd.,PRAKASH,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+407,Precision Camshafts Ltd.,PRECAM,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+408,Precision Wires India Ltd.,PRECWIRE,Non Ferrous Metals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+409,Premier Explosives Ltd.,PREMEXPLN,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+411,Prestige Estates Projects Ltd.,PRESTIGE,Realty,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+412,Pricol Ltd.,PRICOLLTD,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+414,Prime Securities Ltd.,PRIMESECU,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+415,Procter & Gamble Health Ltd.,PGEL,Consumer Durables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+416,Pudumjee Paper Products Ltd.,PDMJEPAPER,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+418,Punjab & Sind Bank,PSB,Banks,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+419,Punjab Chemicals & Crop Protection Ltd.,PUNJABCHEM,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+420,Punjab National Bank,PNB,Banks,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+421,Puravankara Ltd.,PURVA,Realty,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+422,Quess Corp Ltd.,QUESS,Diversified,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+423,Quick Heal Technologies Ltd.,QUICKHEAL,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+425,R Systems International Ltd.,RSYSTEMS,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+427,Radico Khaitan Ltd.,RADICO,Alcoholic Beverages,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+428,Rail Vikas Nigam Ltd.,RVNL,Construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+429,Rain Industries Ltd.,RAIN,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+430,Raj Television Network Ltd.,RAJTV,Entertainment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+431,Rajesh Exports Ltd.,RAJESHEXPO,"Diamond, Gems and Jewellery",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+433,Rallis India Ltd.,RALLIS,Agro Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+434,Rama Steel Tubes Ltd.,RAMASTEEL,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+436,Ramkrishna Forgings Ltd.,RKFORGE,"Castings, Forgings & Fastners",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+437,Ramky Infrastructure Ltd.,RAMKY,Construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+438,Rane Brake Lining Ltd.,RBL,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+440,Rane Holdings Ltd.,RANEHOLDIN,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+441,Ratnamani Metals & Tubes Ltd.,RATNAMANI,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+442,Raymond Ltd.,RAYMOND,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+443,Refex Industries Ltd.,REFEX,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+445,Reliance Industrial Infrastructure Ltd.,RIIL,Infrastructure Developers & Operators,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+446,Reliance Industries Ltd.,RELIANCE,Refineries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+449,Remsons Industries Ltd.,REMSONSIND,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+450,Repro India Ltd.,REPRO,Media - Print/Television/Radio,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+451,Responsive Industries Ltd.,RESPONIND,Plastic products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+452,Revathi Equipment Ltd.,REVATHI,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+453,Rossell India Ltd.,ROSSELLIND,Plantation & Plantation Products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+454,Royal Orchid Hotels Ltd.,ROHLTD,Hotels & Restaurants,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+455,Ruchi Infrastructure Ltd.,RUCHINFRA,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+456,Ruchira Papers Ltd.,RUCHIRA,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+457,Rushil Decor Ltd.,RUSHIL,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+460,Sagar Cements Ltd.,SAGCEM,Cement,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+461,Sagardeep Alloys Ltd.,SAGARDEEP,Non Ferrous Metals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+462,Sakar Healthcare Ltd.,SAKAR,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+463,Saksoft Ltd.,SAKSOFT,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+465,Sakuma Exports Ltd.,SAKUMA,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+466,Salona Cotspin Ltd.,SALONA,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+468,Sandhar Technologies Ltd.,SANDHAR,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+469,Sangam (India) Ltd.,SANGAMIND,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+471,Sanghvi Movers Ltd.,SANGHVIMOV,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+472,Sanginita Chemicals Ltd.,SANGINITA,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+473,Sanofi India Ltd.,SANOFI,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+475,Sarda Energy & Minerals Ltd.,SARDAEN,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+476,Sastasundar Ventures Ltd.,SASTASUNDR,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+477,Satia Industries Ltd.,SATIA,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+478,Satin Creditcare Network Ltd.,SATIN,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+479,Savita Oil Technologies Ltd.,SOTL,Petrochemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+480,Schaeffler India Ltd.,SCHAEFFLER,Bearings,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+481,Schneider Electric Infrastructure Ltd.,SCHNEIDER,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+482,Seamec Ltd.,SEAMECLTD,Shipping,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+483,Selan Exploration Technology Ltd.,SELAN,Crude Oil & Natural Gas,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+486,Shalby Ltd.,SHALBY,Healthcare,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+488,Shankara Building Products Ltd.,SHANKARA,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+489,Shanthi Gears Ltd.,SHANTIGEAR,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+490,Sharda Cropchem Ltd.,SHARDACROP,Agro Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+491,Shemaroo Entertainment Ltd.,SHEMAROO,Entertainment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+492,Shilpa Medicare Ltd.,SHILPAMED,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+496,Shoppers Stop Ltd.,SHOPERSTOP,Retail,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+497,Shree Cement Ltd.,SHREECEM,Cement,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+498,Shree Rama Multi-Tech Ltd.,SHREERAMA,Packaging,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+500,Shreyans Industries Ltd.,SHREYANIND,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+501,Shreyans Industries Ltd.,SSINFRA,Construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+502,Shreyas Shipping & Logistics Ltd.,SHREYAS,Shipping,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+504,Siemens Ltd.,SIEMENS,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+509,Sirca Paints India Ltd.,SIRCA,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+511,Skipper Ltd.,SKIPPER,Engineering,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+512,Snowman Logistics Ltd.,SNOWMAN,Logistics,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+513,Sobha Ltd.,SOBHA,Realty,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+514,Solar Industries India Ltd.,SOLARINDS,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+516,Somany Ceramics Ltd.,SOMANYCERA,Ceramic Products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+517,Somany Ceramics Ltd.,SPLIL,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+518,Somi Conveyor Beltings Ltd.,SOMICONVEY,Plantation & Plantation Products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+519,Sonata Software Ltd.,SONATSOFTW,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+520,South West Pinnacle Exploration Ltd.,SOUTHWEST,Mining & Mineral products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+521,Spacenet Enterprises India Ltd.,SPAL,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+522,Speciality Restaurants Ltd.,SPECIALITY,Hotels & Restaurants,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+523,Sree Rayalaseema Hi-Strength Hypo Ltd.,SRHHYPOLTD,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+525,Star Cement Ltd.,STARCEMENT,Cement,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+526,Star Paper Mills Ltd.,STARPAPER,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+527,Steel City Securities Ltd.,STEELCITY,Stock/ Commodity Brokers,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+529,Steel Strips Wheels Ltd.,SSWL,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+530,Sterling Tools Ltd.,STERTOOLS,"Castings, Forgings & Fastners",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+532,Subros Ltd.,SUBROS,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+534,Sumit Woods Ltd.,SUMIT,Realty,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+535,Summit Securities Ltd.,SUMMITSEC,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+537,Sundaram Finance Holdings Ltd.,SUNDARMFIN,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+538,Sundaram Finance Holdings Ltd.,SUNDARMHLD,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+539,Sundaram Finance Ltd.,SUNDARAM,Media - Print/Television/Radio,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+540,Sundram Fasteners Ltd.,SUNDRMFAST,"Castings, Forgings & Fastners",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+543,Superhouse Ltd.,SUPERHOUSE,Leather,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+544,Suprajit Engineering Ltd.,SUPRAJIT,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+546,Supreme Industries Ltd.,SUPREMEIND,Plastic products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+547,Supreme Petrochem Ltd.,SUPPETRO,Petrochemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+548,Surana Solar Ltd.,SURANASOL,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+550,Surya Roshni Ltd.,SURYAROSNI,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+551,Suryalakshmi Cotton Mills Ltd.,SURYALAXMI,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+554,Swan Energy Ltd.,SWANENERGY,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+555,Swaraj Engines Ltd.,SWARAJENG,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+556,Swelect Energy Systems Ltd.,SWELECTES,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+557,Symphony Ltd.,SYMPHONY,Consumer Durables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+558,Syngene International Ltd.,SYNGENE,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+560,Talbros Automotive Components Ltd.,TALBROAUTO,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+561,Tamil Nadu Newsprint & Papers Ltd.,TNPL,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+562,Tamilnadu Petroproducts Ltd.,TNPETRO,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+564,Tanla Platforms Ltd.,TANLA,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+565,Tantia Constructions Ltd.,TANTIACONS,Infrastructure Developers & Operators,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+566,Tarmat Ltd.,TARMAT,Realty,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+567,Tasty Bite Eatables Ltd.,TASTYBITE,FMCG,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+568,Tata Chemicals Ltd.,TATACHEM,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+569,Tata Coffee Ltd.,TATACOFFEE,Plantation & Plantation Products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+570,Tata Communications Ltd.,TATACOMM,Telecomm-Service,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+571,Tata Consultancy Services Ltd.,TCS,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+572,Tata Elxsi Ltd.,TATAELXSI,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+573,Tata Metaliks Ltd.,TATAMETALI,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+574,Tata Motors Ltd.,TATAMOTORS,Automobile,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+576,Tata Steel Ltd.,TATASTEEL,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+579,Tech Mahindra Ltd.,TECHM,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+581,Technocraft Industries (India) Ltd.,TIIL,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+584,Thangamayil Jewellery Ltd.,THANGAMAYL,"Diamond, Gems and Jewellery",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+585,Thejo Engineering Ltd.,THEJO,Engineering,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+586,Themis Medicare Ltd.,THEMISMED,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+587,Thermax Ltd.,THERMAX,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+588,Thirumalai Chemicals Ltd.,TIRUMALCHM,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+590,Thomas Scott (India) Ltd.,THOMASCOTT,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+591,Thyrocare Technologies Ltd.,THYROCARE,Healthcare,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+592,Tide Water Oil Co. (India) Ltd.,TIDEWATER,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+594,Tilaknagar Industries Ltd.,TI,Alcoholic Beverages,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+595,Tilaknagar Industries Ltd.,TIINDIA,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+596,Time Technoplast Ltd.,TIMETECHNO,Plastic products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+597,Times Guaranty Ltd.,TIMESGTY,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+598,Timken India Ltd.,TIMKEN,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+599,Titan Company Ltd.,TITAN,"Diamond, Gems and Jewellery",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+600,Torrent Pharmaceuticals Ltd.,TORNTPHARM,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+601,Torrent Power Ltd.,TORNTPOWER,Power Generation & Distribution,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+602,Touchwood Entertainment Ltd.,TOUCHWOOD,Entertainment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+605,Trent Ltd.,TRENT,Retail,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+606,Tribhovandas Bhimji Zaveri Ltd.,TBZ,"Diamond, Gems and Jewellery",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+607,Trident Ltd.,TRIDENT,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+608,Trigyn Technologies Ltd.,TRIGYN,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+609,Triveni Turbine Ltd.,TRITURBINE,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+611,Ujjivan Financial Services Ltd.,UJJIVAN,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+614,Uniphos Enterprises Ltd.,UNIENTER,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+615,United Breweries Ltd.,UBL,Alcoholic Beverages,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+616,United Polyfab Gujarat Ltd.,UNITEDPOLY,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+617,United Spirits Ltd.,MCDOWELL-N,Alcoholic Beverages,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+618,Universal Cables Ltd.,UNIVCABLES,Cables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+619,Urja Global Ltd.,URJA,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+621,Usha Martin Ltd.,USHAMART,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+622,Uttam Sugar Mills Ltd.,UTTAMSUGAR,Sugar,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+623,V-Guard Industries Ltd.,VGUARD,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+625,Vadilal Industries Ltd.,VADILALIND,FMCG,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+626,Vaibhav Global Ltd.,VAIBHAVGBL,"Diamond, Gems and Jewellery",17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+627,Vaishali Pharma Ltd.,VAISHALI,Trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+629,Vardhman Acrylics Ltd.,VARDHACRLC,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+630,Vardhman Holdings Ltd.,VHL,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+632,Vardhman Special Steels Ltd.,VSSL,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+633,Vardhman Textiles Ltd.,VTL,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+635,Varun Beverages Ltd.,VBL,FMCG,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+636,Vascon Engineers Ltd.,VASCONEQ,Construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+637,Vaswani Industries Ltd.,VASWANI,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+638,Vedanta Ltd.,VEDL,Mining & Mineral products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+639,Venus Remedies Ltd.,VENUSREM,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+640,Vertoz Advertising Ltd.,VERTOZ,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+641,Vesuvius India Ltd.,VESUVIUS,Refractories,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+643,Vidhi Specialty Food Ingredients Ltd.,VIDHIING,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+644,Viji Finance Ltd.,VIJIFIN,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+645,Vikas Ecotech Ltd.,VIKASECO,Plastic products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+647,Vimta Labs Ltd.,VIMTALABS,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+648,Vinati Organics Ltd.,VINATIORGA,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+649,Vindhya Telelinks Ltd.,VINDHYATEL,Cables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+652,Visaka Industries Ltd.,VISAKAIND,Cement - Products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+653,Vishal Fabrics Ltd.,VISHAL,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+654,Vishnu Chemicals Ltd.,VISHNU,Chemicals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+657,Voltamp Transformers Ltd.,VOLTAMP,Capital Goods - Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+658,Voltas Ltd.,VOLTAS,Consumer Durables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+659,W S Industries (India) Ltd.,WSI,Infrastructure Developers & Operators,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+663,Wealth First Portfolio Managers Ltd.,WEALTH,Finance,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+665,Weizmann Ltd.,WEIZMANIND,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+666,Welspun Corp Ltd.,WELCORP,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+667,Welspun Enterprises Ltd.,WELENT,Construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+668,Welspun India Ltd.,WELSPUNIND,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+669,Wendt (India) Ltd.,WENDT,Capital Goods-Non Electrical Equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+670,West Coast Paper Mills Ltd.,WSTCSTPAPR,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+671,Wheels India Ltd.,WHEELS,Auto Ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+672,Wheels India Ltd.,WIPL,Miscellaneous,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+673,Wipro Ltd.,WIPRO,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+675,Wonderla Holidays Ltd.,WONDERLA,Entertainment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+676,Worth Peripherals Ltd.,WORTH,Paper,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+677,Xchanging Solutions Ltd.,XCHANGING,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+678,Xpro India Ltd.,XPROINDIA,Plastic products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+679,Yes Bank Ltd.,YESBANK,Banks,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+680,Zee Entertainment Enterprises Ltd.,ZEEL,Entertainment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+681,Zee Learn Ltd.,ZEELEARN,Computer Education,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+682,Zen Technologies Ltd.,ZENTEC,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+683,Zenith Exports Ltd.,ZENITHEXPO,Textiles,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+684,Zensar Technologies Ltd.,ZENSARTECH,IT - Software,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+685,Zota Health Care Ltd.,ZOTA,Pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+686,Zydus Wellness Ltd.,ZYDUSWELL,FMCG,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+0,360 One Wam Ltd.,360ONE,Other fund based financial services,17359.75,31-03-2023,2204778.2,37.32,91.13,13.36
+1,3M India Ltd.,3MINDIA,"Plastic furniture, floorings & miscellaneous items",17359.75,31-03-2023,516029.35,56.59,5.03,0.78
+2,A B B India Ltd.,ABB,"Generators, transformers & switchgears",17359.75,31-03-2023,451725.12,40.66,40.08,8.42
+3,A C C Ltd.,ACC,Cement,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+4,A I A Engineering Ltd.,AIAENG,Castings & forgings,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+5,A P L Apollo Tubes Ltd.,APLAPOLLO,Steel pipes & tubes,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+6,A U Small Finance Bank Ltd.,AUBANK,Banking services,17359.75,31-03-2023,3375.18,23.38,10.82,2.02
+7,Aarti Drugs Ltd.,AARTIDRUGS,Drugs & pharmaceuticals,17359.75,31-03-2023,2835.92,5.58,17.84,2.18
+8,Aarti Industries Ltd.,AARTIIND,Other chemical products,17359.75,31-03-2023,110049.77,30.89,32.22,4.07
+9,Aavas Financiers Ltd.,AAVAS,Housing finance services,17359.75,31-03-2023,22713.98,1.0,64.4,0.78
+10,Abbott India Ltd.,ABBOTINDIA,Drugs & pharmaceuticals,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+11,Adani Energy Solutions Ltd.,ADANIENSOL,Wholesale trading,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+12,Adani Enterprises Ltd.,ADANIENT,Wholesale trading,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+13,Adani Green Energy Ltd.,ADANIGREEN,Wholesale trading,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+14,Adani Ports & Special Economic Zone Ltd.,ADANIPORTS,Shipping transport infrastructure services,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+15,Adani Power Ltd.,ADANIPOWER,Conventional electricity,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+16,Adani Total Gas Ltd.,ATGL,Natural gas trading & distribution,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+17,Adani Wilmar Ltd.,AWL,Vegetable oils & products,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+18,Aditya Birla Capital Ltd.,ABCAPITAL,Other fund based financial services,17359.75,31-03-2023,8281.51,23.8,9.8,2.3
+19,Aditya Birla Fashion & Retail Ltd.,ABFRL,Retail trading,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+20,Aditya Birla Sun Life A M C Ltd.,ABSLAMC,Asset management services (mutual funds),17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+21,Aegis Logistics Ltd.,AEGISCHEM,Storage & distribution,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+22,Aether Industries Ltd.,AETHER,Organic chemicals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+23,Affle (India) Ltd.,AFFLE,Business services & consultancy,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+24,Ajanta Pharma Ltd.,AJANTPHARM,Drugs & pharmaceuticals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+25,Akzo Nobel India Ltd.,AKZOINDIA,Paints & varnishes,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+26,Alembic Pharmaceuticals Ltd.,APLLTD,Drugs & pharmaceuticals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+27,Alkem Laboratories Ltd.,ALKEM,Drugs & pharmaceuticals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+28,Alkyl Amines Chemicals Ltd.,ALKYLAMINE,Organic chemicals,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+29,Alok Industries Ltd.,ALOKINDS,Diversified cotton textile,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+30,Amara Raja Batteries Ltd.,AMARAJABAT,Storage batteries,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+31,Amber Enterprises India Ltd.,AMBER,Air-conditioners & refrigerators,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+32,Ambuja Cements Ltd.,AMBUJACEM,Cement,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+33,Angel One Ltd.,ANGELONE,Securities broking,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+34,Anupam Rasayan India Ltd.,ANURAS,Other chemical products,17359.75,31-03-2023,965433.91,7.72,70.6,15.36
+35,Apar Industries Ltd.,APARINDS,"Lubricants, etc.",17359.75,31-03-2023,16753.4,17.49,16.24,2.18
+36,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP,Health services,17359.75,31-03-2023,4521.1,36.26,23.49,4.45
+37,Apollo Tyres Ltd.,APOLLOTYRE,Tyres & tubes,17359.75,31-03-2023,5825.72,34.98,11.89,0.85
+38,Aptus Value Housing Finance India Ltd.,APTUS,Housing finance services,17359.75,31-03-2023,251317.82,34.16,53.93,9.57
+39,Archean Chemical Inds. Ltd.,ACI,Diversified,17359.75,31-03-2023,48354.52,8.28,21.83,2.23
+40,Asahi India Glass Ltd.,ASAHIINDIA,Glass & glassware,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+41,Ashok Leyland Ltd.,ASHOKLEY,Commercial vehicles,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+42,Asian Paints Ltd.,ASIANPAINT,Paints & varnishes,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+43,Aster D M Healthcare Ltd.,ASTERDM,Health services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+44,Astral Ltd.,ASTRAL,"Plastic tubes, pipes, fittings & sheets",17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+45,Astrazeneca Pharma India Ltd.,ASTRAZEN,Wholesale trading,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+46,Atul Ltd.,ATUL,Other chemical products,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+47,Aurobindo Pharma Ltd.,AUROPHARMA,Drugs & pharmaceuticals,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+48,Avanti Feeds Ltd.,AVANTIFEED,Vegetable oils & products,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+50,Axis Bank Ltd.,AXISBANK,Banking services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+51,B A S F India Ltd.,BASF,Diversified,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+52,Bajaj Auto Ltd.,BAJAJ-AUTO,Two & three wheelers,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+53,Bajaj Electricals Ltd.,BAJAJELEC,Wholesale trading,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+54,Bajaj Finance Ltd.,BAJFINANCE,Other asset financing services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+55,Bajaj Finserv Ltd.,BAJAJFINSV,Other fund based financial services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+56,Bajaj Holdings & Invst. Ltd.,BAJAJHLDNG,Other fund based financial services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+57,Balaji Amines Ltd.,BALAMINES,Organic chemicals,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+58,Balkrishna Industries Ltd.,BALKRISIND,Tyres & tubes,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+59,Balrampur Chini Mills Ltd.,BALRAMCHIN,Sugar,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+60,Bandhan Bank Ltd.,BANDHANBNK,Banking services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+61,Bank Of Baroda,BANKBARODA,Banking services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+62,Bank Of India,BANKINDIA,Banking services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+63,Bank Of Maharashtra,MAHABANK,Banking services,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+64,Bata India Ltd.,BATAINDIA,Retail trading,17359.75,31-03-2023,12789.6,2.76,9.73,0.37
+65,Bayer Cropscience Ltd.,BAYERCROP,Pesticides,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+66,Berger Paints India Ltd.,BERGEPAINT,Paints & varnishes,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+67,Bharat Dynamics Ltd.,BDL,Communication equipment,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+68,Bharat Electronics Ltd.,BEL,Communication equipment,17359.75,31-03-2023,2072.5,3.9,24.04,4.92
+69,Bharat Forge Ltd.,BHARATFORG,Other automobile ancillaries,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+70,Bharat Heavy Electricals Ltd.,BHEL,Boilers & turbines,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+71,Bharat Petroleum Corpn. Ltd.,BPCL,Refinery,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+72,Bharti Airtel Ltd.,BHARTIARTL,Telecommunication services,17359.75,31-03-2023,14840.95,21.69,10.31,1.43
+73,Bikaji Foods Intl. Ltd.,BIKAJI,Processed foods,17359.75,31-03-2023,3656.02,1.25,11.57,0.45
+74,Biocon Ltd.,BIOCON,Drugs & pharmaceuticals,17359.75,31-03-2023,27866.59,45.5,13.44,2.63
+75,Birla Corporation Ltd.,BIRLACORPN,Cement,17359.75,31-03-2023,3654.65,11.79,50.83,1.04
+76,Birlasoft Ltd.,BSOFT,Computer software,17359.75,31-03-2023,7637.15,34.45,6.33,0.53
+77,Blue Dart Express Ltd.,BLUEDART,Transport logistics services,17359.75,31-03-2023,170419.5,35.46,80.69,15.19
+78,Blue Star Ltd.,BLUESTARCO,Air-conditioners & refrigerators,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+79,Bombay Burmah Trdg. Corpn. Ltd.,BBTC,Tea,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+80,Borosil Renewables Ltd.,BORORENEW,Glass & glassware,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+81,Bosch Ltd.,BOSCHLTD,Other automobile ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+82,Brigade Enterprises Ltd.,BRIGADE,Housing construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+83,Britannia Industries Ltd.,BRITANNIA,Bakery products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+84,C C L Products (India) Ltd.,CCL,Coffee,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+85,C E Info Systems Ltd.,MAPMYINDIA,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+86,C E S C Ltd.,CESC,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+87,C G Power & Indl. Solutions Ltd.,CGPOWER,"Generators, transformers & switchgears",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+88,C I E Automotive India Ltd.,CIEINDIA,Other automobile ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+89,C S B Bank Ltd.,CSBBANK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+90,Campus Activewear Ltd.,CAMPUS,Footwear,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+91,Can Fin Homes Ltd.,CANFINHOME,Housing finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+93,Caplin Point Laboratories Ltd.,CAPLIPOINT,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+94,Capri Global Capital Ltd.,CGCL,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+95,Carborundum Universal Ltd.,CARBORUNIV,Other construction materials,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+96,Castrol India Ltd.,CASTROLIND,"Lubricants, etc.",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+97,Ceat Ltd.,CEATLTD,Tyres & tubes,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+98,Central Bank Of India Ltd.,CENTRALBK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+99,Century Plyboards (India) Ltd.,CENTURYPLY,Wood & wood products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+100,Century Textiles & Inds. Ltd.,CENTURYTEX,Paper & newsprint,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+101,Cera Sanitaryware Ltd.,CERA,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+102,Chalet Hotels Ltd.,CHALET,Hotels & restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+103,Chambal Fertilisers & Chemicals Ltd.,CHAMBLFERT,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+104,Chemplast Sanmar Ltd.,CHEMPLASTS,Polymers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+105,Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+106,Cholamandalam Investment & Finance Co. Ltd.,CHOLAFIN,Auto finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+107,Cipla Ltd.,CIPLA,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+108,City Union Bank Ltd.,CUB,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+109,Clean Science & Technology Ltd.,CLEAN,Organic chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+110,Coal India Ltd.,COALINDIA,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+111,Cochin Shipyard Ltd.,COCHINSHIP,Other transport equipment & ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+112,Coforge Ltd.,COFORGE,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+113,Colgate-Palmolive (India) Ltd.,COLPAL,"Cosmetics, toiletries, soaps & detergents",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+114,Computer Age Mgmt. Services Ltd.,CAMS,ITES,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+115,Container Corpn. Of India Ltd.,CONCOR,Railway transport services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+116,Coromandel International Ltd.,COROMANDEL,Fertilisers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+117,Creditaccess Grameen Ltd.,CREDITACC,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+118,Crisil Ltd.,CRISIL,Business services & consultancy,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+119,Crompton Greaves Consumer Electricals Ltd.,CROMPTON,Other domestic appliances,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+122,D C M Shriram Ltd.,DCMSHRIRAM,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+123,D L F Ltd.,DLF,Housing construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+125,Dalmia Bharat Ltd.,DALBHARAT,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+126,Data Patterns (India) Ltd.,DATAPATTNS,Communication equipment,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+127,Deepak Fertilisers & Petrochemicals Corpn. Ltd.,DEEPAKFERT,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+129,Delhivery Ltd.,DELHIVERY,Courier services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+131,Devyani International Ltd.,DEVYANI,Processed foods,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+132,Divi'S Laboratories Ltd.,DIVISLAB,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+134,Dr. Lal Pathlabs Ltd.,LALPATHLAB,Health services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+135,Dr. Reddy'S Laboratories Ltd.,DRREDDY,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+136,E I D-Parry (India) Ltd.,EIDPARRY,Sugar,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+137,E I H Ltd.,EIHOTEL,Hotels & restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+138,E P L Ltd.,EPL,Plastic packaging goods,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+139,Easy Trip Planners Ltd.,EASEMYTRIP,Diversified non-financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+140,Eclerx Services Ltd.,ECLERX,ITES,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+146,Equitas Small Finance Bank Ltd.,EQUITASBNK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+149,Escorts Kubota Ltd.,ESCORTS,Agricultural machinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+152,F D C Ltd.,FDC,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+153,F S N E-Commerce Ventures Ltd.,NYKAA,"Cosmetics, toiletries, soaps & detergents",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+155,Fine Organic Inds. Ltd.,FINEORG,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+159,Five-Star Business Finance Ltd.,FIVESTAR,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+161,G A I L (India) Ltd.,GAIL,Natural gas trading & distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+162,G M M Pfaudler Ltd.,GMMPFAUDLR,Industrial machinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+163,G M R Airports Infrastructure Ltd.,GMRINFRA,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+164,G R Infraprojects Ltd.,GRINFRA,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+165,Galaxy Surfactants Ltd.,GALAXYSURF,"Cosmetics, toiletries, soaps & detergents",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+166,Garware Technical Fibres Ltd.,GARFIBRES,Other textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+167,General Insurance Corpn. Of India,GICRE,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+169,Gland Pharma Ltd.,GLAND,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+170,Glaxosmithkline Pharmaceuticals Ltd.,GLAXO,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+172,Global Health Ltd.,MEDANTA,Health services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+179,Graphite India Ltd.,GRAPHITE,Refractories,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+180,Grasim Industries Ltd.,GRASIM,Man-made filaments & fibres,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+181,Great Eastern Shipping Co. Ltd.,GESHIP,Shipping transport services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+185,Gujarat Fluorochemicals Ltd.,FLUOROCHEM,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+191,H C L Technologies Ltd.,HCLTECH,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+192,H D F C Asset Mgmt. Co. Ltd.,HDFCAMC,Asset management services (mutual funds),17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+193,H D F C Bank Ltd.,HDFCBANK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+194,H D F C Life Insurance Co. Ltd.,HDFCLIFE,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+195,H E G Ltd.,HEG,Refractories,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+196,H F C L Ltd.,HFCL,Industrial construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+197,H L E Glascoat Ltd.,HLEGLAS,Other ferrous metal products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+198,Happiest Minds Technologies Ltd.,HAPPSTMNDS,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+199,Hatsun Agro Product Ltd.,HATSUN,Dairy products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+202,Hero Motocorp Ltd.,HEROMOTOCO,Two & three wheelers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+203,Hikal Ltd.,HIKAL,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+207,Hindustan Petroleum Corpn. Ltd.,HINDPETRO,Refinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+210,Hitachi Energy India Ltd.,POWERINDIA,"Generators, transformers & switchgears",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+211,Home First Finance Co. India Ltd.,HOMEFIRST,Housing finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+213,Housing & Urban Devp. Corpn. Ltd.,HUDCO,Other asset financing services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+214,I C I C I Bank Ltd.,ICICIBANK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+215,I C I C I Lombard General Insurance Co. Ltd.,ICICIGI,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+216,I C I C I Prudential Life Insurance Co. Ltd.,ICICIPRULI,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+217,I C I C I Securities Ltd.,ISEC,Diversified financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+218,I D B I Bank Ltd.,IDBI,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+219,I D F C First Bank Ltd.,IDFCFIRSTB,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+220,I D F C Ltd.,IDFC,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+221,I F B Industries Ltd.,IFBIND,Other domestic appliances,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+222,I I F L Finance Ltd.,IIFL,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+223,I R B Infrastructure Developers Ltd.,IRB,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+224,I T C Ltd.,ITC,Tobacco products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+225,I T I Ltd.,ITI,Business services & consultancy,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+226,India Cements Ltd.,INDIACEM,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+227,Indiabulls Housing Finance Ltd.,IBULHSGFIN,Housing finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+228,Indiabulls Real Estate Ltd.,IBREALEST,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+229,Indiamart Intermesh Ltd.,INDIAMART,Online marketplaces,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+232,Indian Hotels Co. Ltd.,INDHOTEL,Hotels & restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+233,Indian Oil Corpn. Ltd.,IOC,Refinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+235,Indian Railway Catering & Tourism Corpn. Ltd.,IRCTC,Railway transport services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+236,Indian Railway Finance Corpn. Ltd.,IRFC,Other asset financing services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+237,Indigo Paints Ltd.,INDIGOPNTS,Paints & varnishes,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+239,Indus Towers Ltd.,INDUSTOWER,Telecommunication services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+240,Indusind Bank Ltd.,INDUSINDBK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+244,Ingersoll-Rand (India) Ltd.,INGERRAND,General purpose machinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+246,Interglobe Aviation Ltd.,INDIGO,Air transport services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+247,Ipca Laboratories Ltd.,IPCALAB,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+248,Ircon International Ltd.,IRCON,Industrial construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+249,J B Chemicals & Pharmaceuticals Ltd.,JBCHEPHARM,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+250,J B M Auto Ltd.,JBMA,Other automobile ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+251,J K Cement Ltd.,JKCEMENT,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+252,J K Lakshmi Cement Ltd.,JKLAKSHMI,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+253,J K Paper Ltd.,JKPAPER,Paper & newsprint,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+254,J M Financial Ltd.,JMFINANCIL,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+255,J S W Energy Ltd.,JSWENERGY,Conventional electricity,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+256,J S W Steel Ltd.,JSWSTEEL,Steel,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+257,Jamna Auto Inds. Ltd.,JAMNAAUTO,Other automobile ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+262,Jubilant Ingrevia Ltd.,JUBLINGREA,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+263,Jubilant Pharmova Ltd.,JUBLPHARMA,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+266,K E C International Ltd.,KEC,Other construction & allied activities,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+267,K I O C L Ltd.,KIOCL,Minerals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+268,K N R Constructions Ltd.,KNRCON,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+269,K P I T Technologies Ltd.,KPITTECH,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+270,K P R Mill Ltd.,KPRMILL,Other textiles,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+271,K R B L Ltd.,KRBL,Other agricultural products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+272,K S B Ltd.,KSB,General purpose machinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+274,Kalpataru Projects Intl. Ltd.,KPIL,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+275,Kalyan Jewellers India Ltd.,KALYANKJIL,Gems & jewellery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+277,Kei Industries Ltd.,KEI,Wires & cables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+279,Krishna Institute Of Medical Sciences Ltd.,KIMS,Health services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+280,L & T Finance Holdings Ltd.,L&TFH,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+281,L & T Technology Services Ltd.,LTTS,Business services & consultancy,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+282,L I C Housing Finance Ltd.,LICHSGFIN,Housing finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+283,La Opala R G Ltd.,LAOPALA,Other consumer goods,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+286,Latent View Analytics Ltd.,LATENTVIEW,Diversified non-financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+288,Laxmi Organic Inds. Ltd.,LXCHEM,Organic chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+290,Life Insurance Corpn. Of India,LICI,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+292,Lloyds Metals & Energy Ltd.,LLOYDSME,Sponge iron,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+293,Ltimindtree Ltd.,LTIM,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+295,M A S Financial Services Ltd.,MASFIN,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+296,M M T C Ltd.,MMTC,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+297,M R F Ltd.,MRF,Tyres & tubes,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+298,Macrotech Developers Ltd.,LODHA,Housing construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+303,Mahindra Holidays & Resorts India Ltd.,MHRIL,Hotels & restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+304,Mahindra Lifespace Developers Ltd.,MAHLIFE,Commercial complexes,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+306,Mangalore Refinery & Petrochemicals Ltd.,MRPL,Refinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+311,Max Healthcare Institute Ltd.,MAXHEALTH,Health services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+312,Mazagon Dock Shipbuilders Ltd.,MAZDOCK,Other transport equipment & ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+313,Medplus Health Services Ltd.,MEDPLUS,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+314,Metro Brands Ltd.,METROBRAND,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+318,Motherson Sumi Wiring India Ltd.,MSUMI,Other automobile ancillaries,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+320,Mphasis Ltd.,MPHASIS,Computer software,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+321,Multi Commodity Exchange Of India Ltd.,MCX,Other fee based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+323,N B C C (India) Ltd.,NBCC,Housing construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+324,N C C Ltd.,NCC,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+325,N H P C Ltd.,NHPC,Conventional electricity,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+326,N L C India Ltd.,NLCINDIA,Conventional electricity,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+327,N M D C Ltd.,NMDC,Minerals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+328,N T P C Ltd.,NTPC,Conventional electricity,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+331,National Aluminium Co. Ltd.,NATIONALUM,Aluminium & aluminium products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+332,Navin Fluorine Intl. Ltd.,NAVINFLUOR,Inorganic chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+335,Network18 Media & Invst. Ltd.,NETWORK18,Business services & consultancy,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+336,New India Assurance Co. Ltd.,NIACL,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+337,Nippon Life India Asset Mgmt. Ltd.,NAM-INDIA,Asset management services (mutual funds),17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+338,Nocil Ltd.,NOCIL,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+339,Nuvoco Vistas Corporation Ltd.,NUVOCO,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+341,Oil & Natural Gas Corpn. Ltd.,ONGC,Crude oil & natural gas,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+343,One 97 Communications Ltd.,PAYTM,Telecommunication services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+346,P B Fintech Ltd.,POLICYBZR,Diversified financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+347,P C B L Ltd.,PCBL,Inorganic chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+348,P I Industries Ltd.,PIIND,Pesticides,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+349,P N B Housing Finance Ltd.,PNBHOUSING,Housing finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+350,P N C Infratech Ltd.,PNCINFRA,Infrastructural construction,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+351,P V R Inox Ltd.,PVRINOX,Exhibition of films,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+353,Patanjali Foods Ltd.,PATANJALI,Vegetable oils & products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+355,Petronet L N G Ltd.,PETRONET,Natural gas trading & distribution,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+357,Phoenix Mills Ltd.,PHOENIXLTD,Other construction & allied activities,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+360,Piramal Pharma Ltd.,PPLPHARMA,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+362,Polycab India Ltd.,POLYCAB,Wires & cables,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+364,Poonawalla Fincorp Ltd.,POONAWALLA,Auto finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+365,Power Finance Corpn. Ltd.,PFC,Infrastructure finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+366,Power Grid Corpn. Of India Ltd.,POWERGRID,Electricity transmission,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+367,Praj Industries Ltd.,PRAJIND,Industrial machinery,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+369,Prince Pipes & Fittings Ltd.,PRINCEPIPE,"Plastic tubes, pipes, fittings & sheets",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+370,Prism Johnson Ltd.,PRSMJOHNSN,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+371,Privi Speciality Chemicals Ltd.,PRIVISCL,Inorganic chemicals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+372,Procter & Gamble Health Ltd.,PGHL,Drugs & pharmaceuticals,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+373,Procter & Gamble Hygiene & Health Care Ltd.,PGHH,"Cosmetics, toiletries, soaps & detergents",17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+377,R B L Bank Ltd.,RBLBANK,Banking services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+378,R E C Ltd.,RECLTD,Infrastructure finance services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+379,R H I Magnesita India Ltd.,RHIM,Diversified non-financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+383,Rainbow Children'S Medicare Ltd.,RAINBOW,Health services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+386,Ramco Cements Ltd.,RAMCOCEM,Cement,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+387,Rashtriya Chemicals & Fertilizers Ltd.,RCF,Fertilisers,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+390,Redington Ltd.,REDINGTON,Wholesale trading,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+391,Relaxo Footwears Ltd.,RELAXO,Footwear,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+393,Restaurant Brands Asia Ltd.,RBA,Hotels & restaurants,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+394,Rites Ltd.,RITES,Diversified non-financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+395,Rossari Biotech Ltd.,ROSSARI,Other chemical products,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+396,Route Mobile Ltd.,ROUTE,Other miscellaneous services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+397,S B I Cards & Payment Services Ltd.,SBICARD,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+398,S B I Life Insurance Co. Ltd.,SBILIFE,Other fund based financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+399,S I S Ltd.,SIS,Business services & consultancy,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+400,S J V N Ltd.,SJVN,Conventional electricity,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+401,S K F India Ltd.,SKFINDIA,Diversified non-financial services,17359.75,31-03-2023,19725.87,9.05,38.45,2.75
+402,S R F Ltd.,SRF,Other chemical products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+403,Samvardhana Motherson Intl. Ltd.,MOTHERSON,Other automobile ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+405,Sapphire Foods India Ltd.,SAPPHIRE,Hotels & restaurants,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+407,Sheela Foam Ltd.,SFL,Rubber products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+410,Shree Renuka Sugars Ltd.,RENUKA,Sugar,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+411,Shriram Finance Ltd.,SHRIRAMFIN,Auto finance services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+412,Shyam Metalics & Energy Ltd.,SHYAMMETL,Other ferrous metal products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+416,Sona B L W Precision Forgings Ltd.,SONACOMS,Other automobile ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+419,Star Health & Allied Insurance Co. Ltd.,STARHEALTH,Other fund based financial services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+420,State Bank Of India,SBIN,Banking services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+421,Steel Authority Of India Ltd.,SAIL,Steel,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+422,Sterling & Wilson Renewable Energy Ltd.,SWSOLAR,Industrial construction,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+423,Sterlite Technologies Ltd.,STLTECH,Wires & cables,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+424,Sumitomo Chemical India Ltd.,SUMICHEM,Pesticides,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+425,Sun Pharma Advanced Research Co. Ltd.,SPARC,Business services & consultancy,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+426,Sun Pharmaceutical Inds. Ltd.,SUNPHARMA,Drugs & pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+427,Sun T V Network Ltd.,SUNTV,Media-broadcasting,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+429,Sunteck Realty Ltd.,SUNTECK,Other construction & allied activities,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+431,Supreme Petrochem Ltd.,SPLPETRO,Polymers,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+432,Suven Pharmaceuticals Ltd.,SUVENPHAR,Drugs & pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+433,Suzlon Energy Ltd.,SUZLON,Boilers & turbines,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+437,T C I Express Ltd.,TCIEXP,Road transport services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+438,T T K Prestige Ltd.,TTKPRESTIG,Diversified manufacturing,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+439,T V S Motor Co. Ltd.,TVSMOTOR,Two & three wheelers,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+440,Tamilnad Mercantile Bank Ltd.,TMB,Banking services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+446,Tata Consumer Products Ltd.,TATACONSUM,Tea,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+448,Tata Investment Corpn. Ltd.,TATAINVEST,Other fund based financial services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+450,Tata Power Co. Ltd.,TATAPOWER,Conventional electricity,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+452,Tata Teleservices (Maharashtra) Ltd.,TTML,Telecommunication services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+453,Teamlease Services Ltd.,TEAMLEASE,Business services & consultancy,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+455,Tejas Networks Ltd.,TEJASNET,Communication equipment,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+465,Tv18 Broadcast Ltd.,TV18BRDCST,Media-broadcasting,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+466,U P L Ltd.,UPL,Pesticides,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+467,U T I Asset Mgmt. Co. Ltd.,UTIAMC,Asset management services (mutual funds),17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+468,Uco Bank,UCOBANK,Banking services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+469,Uflex Ltd.,UFLEX,Plastic films & flexible packaging,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+470,Ultratech Cement Ltd.,ULTRACEMCO,Cement,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+471,Union Bank Of India,UNIONBANK,Banking services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+474,Uno Minda Ltd.,UNOMINDA,Other automobile ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+475,V I P Industries Ltd.,VIPIND,Diversified,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+476,V S T Industries Ltd.,VSTIND,Tobacco products,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+478,V-Mart Retail Ltd.,VMART,Retail trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+481,Varroc Engineering Ltd.,VARROC,Other automobile ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+483,Vedant Fashions Ltd.,MANYAVAR,Retail trading,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+486,Vodafone Idea Ltd.,IDEA,Telecommunication services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+490,Westlife Foodworld Ltd.,WESTLIFE,Other fund based financial services,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+491,Whirlpool Of India Ltd.,WHIRLPOOL,Air-conditioners & refrigerators,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+494,Z F Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA,Other automobile ancillaries,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+497,Zomato Ltd.,ZOMATO,Online marketplaces,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
+498,Zydus Lifesciences Ltd.,ZYDUSLIFE,Drugs & pharmaceuticals,17359.75,31-03-2023,4191.2,6.97,11.57,2.45
