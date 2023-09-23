@@ -1,4 +1,4 @@
-# Learning from College Curriculum
+# Learnings from College Curriculum
 This repository showcases authors completed college projects. 
 **The projects cover following domain** 
 - NLP 
