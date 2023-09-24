@@ -6,8 +6,7 @@ import pandas as pd
 import os
 import plotly.graph_objects as go
 import numpy as np
-import subprocess
-
+import webbrowser
 # The rest of your Streamlit app goes here
 # Add your financial dashboard components below this line
 st.title("Financial Health Dashboard - Indian Equity Market")
@@ -28,9 +27,8 @@ fundamental_columns = [
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 def open_pdf_analysis_app():
-    app_file_path = os.path.join(script_dir, "benford.py")
-    subprocess.Popen(["streamlit", "run", app_file_path])
-
+    app_link = "https://collegeprojects-bhrpvvtyfaiu8k3ybxhlkc.streamlit.app/"  # Replace with the desired link
+    webbrowser.open(app_link)
 
 # Define the directory where your data files are located
 data_dir = os.path.join(script_dir, 'data', 'prep_data')
