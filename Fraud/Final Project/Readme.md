@@ -7,7 +7,7 @@
 - Dashboard Folder containing app.py is running smoothly on local
 - Isssues are being encountered while trying to deploy it on streamlit, and currently being debugged
 
-refer following image for Dashboard snapshots on local
+refer following image for Dashboard screenshot on localhost
 
 
 ![image](https://github.com/Asce099/College_projects/assets/108356742/587767fc-33a3-402d-baa8-6fb130614ee2)
