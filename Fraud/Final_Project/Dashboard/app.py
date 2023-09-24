@@ -492,10 +492,10 @@ st.markdown("")
 
 def open_pdf_analysis_app():
     # You can use Markdown to create a link to the PDF analysis app within your Streamlit app
-    st.markdown("[Click here to check book manipulation Using Annual Report PDFs](https://collegeprojects-bhrpvvtyfaiu8k3ybxhlkc.streamlit.app/)")
+    st.markdown("[Click here to check book manipulation Using Annual Report PDFs, or other PDFs](https://collegeprojects-bhrpvvtyfaiu8k3ybxhlkc.streamlit.app/)")
 
 # Create a button to open the PDF analysis app page
-if st.button("Open PDF Analysis App"):
+if st.button("Checkout the PDF Analysis App"):
     open_pdf_analysis_app()
  # Call the function to open the PDF analysis app
 
