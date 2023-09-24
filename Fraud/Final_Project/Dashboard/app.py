@@ -72,7 +72,8 @@ for file in financial_data_files:
 selected_company = st.sidebar.selectbox("Select Company", list(financial_data['current_assets'].keys()))
 selected_company_data = financial_data['current_assets'][selected_company]
 
-st.header(f"**Data For**: {selected_company}, **Ticker**: {selected_company_data['ticker']}, **Industry:** {selected_company_data['industry']}")
+st.header(f"**Data For**: {selected_company}")
+st.header(f"**Ticker**: {selected_company_data['ticker']}, **Industry:** {selected_company_data['industry']}")
 ##################################################################################################################################################Company selected
 
 # Create a Streamlit sidebar to display selected company information
