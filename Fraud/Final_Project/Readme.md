@@ -23,8 +23,13 @@ refer following image for Dashboard screenshots
 ![image](https://github.com/Asce099/College_projects/assets/108356742/110a2990-02a2-42ac-b734-93993ff0e0c7)
 
 
-#### The PDF interface and results 
+
+
+
+## The PDF interface and results 
 ![image](https://github.com/Asce099/College_projects/assets/108356742/8ea941e0-df36-4a76-88b0-f415fdabe098)
+
+
 
 ![image](https://github.com/Asce099/College_projects/assets/108356742/5f62b00e-38bc-41a8-9b68-15a17eac4107)
 
