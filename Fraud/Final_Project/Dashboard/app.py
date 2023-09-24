@@ -22,20 +22,24 @@ fundamental_columns = [
     'ticker', 'industry', 'NIFTY closing', 'Date', 'Market Capitalisation',
     'EPS', 'P/E', 'P/B', 'Beta', 'Industry PE', 'Industry PB', 'Risk_Score', 'risk'
 ]
+# Get the current directory of the script
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
-# List of financial data files
+# Define the directory where your data files are located
+data_dir = os.path.join(script_dir, 'data', 'prep_data')
+
+# List of financial data files with absolute paths
 financial_data_files = [
-    'data/prep_data/current_assets_data.csv',
-    'data/prep_data/current_liabilities_data.csv',
-    'data/prep_data/long_term_borrowings_data.csv',
-    'data/prep_data/sales_data.csv',
-    'data/prep_data/total_assets_data.csv',
-    'data/prep_data/total_expenses_data.csv',
-    'data/prep_data/total_income_data.csv',
-    'data/prep_data/turnover_data.csv',
-    'data/prep_data/yield_data.csv'
+    os.path.join(data_dir, 'current_assets_data.csv'),
+    os.path.join(data_dir, 'current_liabilities_data.csv'),
+    os.path.join(data_dir, 'long_term_borrowings_data.csv'),
+    os.path.join(data_dir, 'sales_data.csv'),
+    os.path.join(data_dir, 'total_assets_data.csv'),
+    os.path.join(data_dir, 'total_expenses_data.csv'),
+    os.path.join(data_dir, 'total_income_data.csv'),
+    os.path.join(data_dir, 'turnover_data.csv'),
+    os.path.join(data_dir, 'yield_data.csv')
 ]
-
 for file in financial_data_files:
     key = os.path.basename(file).split('_data.csv')[0]  # Use the file name as the key
     df = pd.read_csv(file)
