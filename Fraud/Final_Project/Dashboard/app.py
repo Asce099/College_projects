@@ -25,7 +25,8 @@ fundamental_columns = [
 ]
 
 def open_pdf_analysis_app():
-    subprocess.Popen(["streamlit", "run", "benford.py"])
+    app_file_path = os.path.abspath("benford.py")
+    subprocess.Popen(["streamlit", "run", app_file_path])
 
 # Get the current directory of the script
 script_dir = os.path.dirname(os.path.abspath(__file__))
