@@ -123,7 +123,7 @@ fig.add_trace(
     go.Indicator(
         mode="number",
         value=selected_company_data['Market Capitalisation'],
-        title="Market Cap",
+        title="Market Cap in Million ₹",
         domain={'x': [0.35, 0.6], 'y': [0.7, 1]},
     )
 )
