@@ -26,10 +26,6 @@ fundamental_columns = [
 # Get the current directory of the script
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
-def open_pdf_analysis_app():
-    app_link = "https://collegeprojects-bhrpvvtyfaiu8k3ybxhlkc.streamlit.app/"  # Replace with the desired link
-    webbrowser.open(app_link)
-
 # Define the directory where your data files are located
 data_dir = os.path.join(script_dir, 'data', 'prep_data')
 
@@ -493,9 +489,15 @@ st.markdown("")
 st.markdown("")
 st.markdown("")
 st.markdown("")
-# Create a button to open the PDF analysis app
-if st.button("If you would like to check book manipulation Using Annual Report PDFs click here"):
-    open_pdf_analysis_app()  # Call the function to open the PDF analysis app
+
+def open_pdf_analysis_app():
+    # You can use Markdown to create a link to the PDF analysis app within your Streamlit app
+    st.markdown("[Click here to check book manipulation Using Annual Report PDFs](https://collegeprojects-bhrpvvtyfaiu8k3ybxhlkc.streamlit.app/)")
+
+# Create a button to open the PDF analysis app page
+if st.button("Open PDF Analysis App"):
+    open_pdf_analysis_app()
+ # Call the function to open the PDF analysis app
 
 # Add an empty Markdown element to create some space
 st.markdown("")
