@@ -5,9 +5,6 @@ import numpy as np
 from collections import defaultdict
 import plotly.graph_objs as go
 import time
-import camelot
-import tempfile
-import os
 
 # Function to extract text from a PDF file
 def extract_text_from_pdf(pdf_file):
@@ -57,16 +54,8 @@ if uploaded_file is not None:
     start_time = time.time()
 
     try:
-        # Create a temporary directory to save the PDF file
-        temp_dir = tempfile.TemporaryDirectory()
-        temp_file_path = os.path.join(temp_dir.name, "uploaded_pdf.pdf")
-
-        # Save the uploaded PDF file to the temporary directory
-        with open(temp_file_path, "wb") as temp_file:
-            temp_file.write(uploaded_file.read())
-
         # Extract text from the uploaded PDF
-        pdf_text = extract_text_from_pdf(temp_file_path)
+        pdf_text = extract_text_from_pdf(uploaded_file)
 
         # Extract digits from the text
         digits = extract_digits(pdf_text)
@@ -123,25 +112,5 @@ if uploaded_file is not None:
 
                 fig = go.Figure(data=[observed_bar, expected_line], layout=layout)
                 st.plotly_chart(fig)
-
-                # Attempt table extraction using Camelot
-                st.subheader("Table Extraction:")
-                try:
-                    tables = camelot.read_pdf(temp_file_path)  # Extract tables
-                    if tables:
-                        st.write("Tables found in the PDF:")
-                        for i, table in enumerate(tables):
-                            st.write(f"Table {i + 1}:")
-                            st.write(table.df)  # Access the DataFrame representation of the table
-                    else:
-                        st.write("No tables found in the PDF.")
-                except Exception as tabula_error:
-                    st.error(f"Error occurred during table extraction: {str(tabula_error)}")
-
-                # Clean up temporary files and directory
-                temp_dir.cleanup()
-
-                # Stop the Streamlit script to prevent it from running indefinitely
-                st.stop()
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
