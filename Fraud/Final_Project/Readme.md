@@ -11,7 +11,7 @@
     * Ability to take user input in PDF format and run benford model
     * Other important fundamental features such as PB, PE, Beta etc have been provided to aid investors in making decision
     * Peer comparison for finding companies have also been provided to aid investors in making decsions
-- Dashboard is live on streamlit and can be accessed by following : https://collegeprojects-vg5p56qjhehfftduvbjcfq.streamlit.app/  
+- Dashboard is live on streamlit and can be accessed by following : https://fraud-analytics-group-5-financial.streamlit.app/   
 
 refer following image for Dashboard screenshots 
 ![image](https://github.com/Asce099/College_projects/assets/108356742/7c325f5a-a819-4759-bd31-034cac3640f3)
