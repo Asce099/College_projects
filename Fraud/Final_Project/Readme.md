@@ -14,18 +14,22 @@
 - Dashboard is live on streamlit and can be accessed by following : https://collegeprojects-vg5p56qjhehfftduvbjcfq.streamlit.app/  
 
 refer following image for Dashboard screenshots 
+![image](https://github.com/Asce099/College_projects/assets/108356742/7c325f5a-a819-4759-bd31-034cac3640f3)
 
 
-![image](https://github.com/Asce099/College_projects/assets/108356742/587767fc-33a3-402d-baa8-6fb130614ee2)
-
-![ref](https://github.com/Asce099/College_projects/assets/108356742/de8945f2-83b0-4f1c-b803-f3657dec3f8d)
+![image](https://github.com/Asce099/College_projects/assets/108356742/d08c956d-4d48-4f01-b59e-a5e5e0499cee)
 
 
-![image](https://github.com/Asce099/College_projects/assets/108356742/eb5c8cae-2659-4625-bab4-c7a56d280ce7)
+![image](https://github.com/Asce099/College_projects/assets/108356742/110a2990-02a2-42ac-b734-93993ff0e0c7)
 
 
-![image](https://github.com/Asce099/College_projects/assets/108356742/57896393-30d8-4c44-ae9c-f63d9205e770)
+#### The PDF interface and results 
+![image](https://github.com/Asce099/College_projects/assets/108356742/8ea941e0-df36-4a76-88b0-f415fdabe098)
+
+![image](https://github.com/Asce099/College_projects/assets/108356742/5f62b00e-38bc-41a8-9b68-15a17eac4107)
 
 
-![image](https://github.com/Asce099/College_projects/assets/108356742/223eb774-563a-4ba4-9335-94d9fe73777d)
 
+#### For any Query or help contact:
+- eMail- krtejas88@gmail.com
+- LinkedIN - www.linkedin.com/in/tejas-kumar-809876244
