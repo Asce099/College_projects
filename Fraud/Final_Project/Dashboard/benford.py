@@ -114,3 +114,14 @@ if uploaded_file is not None:
 
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
+
+
+
+# Add an empty Markdown element to create some space
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.write('<div style="text-align: right;"><span style="font-weight: bold; font-size: larger;">Submitted by Group 5</span></div>', unsafe_allow_html=True)
