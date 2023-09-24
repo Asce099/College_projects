@@ -111,7 +111,6 @@ if uploaded_file is not None:
                 fig = go.Figure(data=[observed_bar, expected_line], layout=layout)
                 st.plotly_chart(fig)
 
-                # Update the message to indicate results
-                st.subheader("Results:")
+
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
