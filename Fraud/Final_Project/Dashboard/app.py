@@ -24,12 +24,13 @@ fundamental_columns = [
     'EPS', 'P/E', 'P/B', 'Beta', 'Industry PE', 'Industry PB', 'Risk_Score', 'risk', 'alt-score'
 ]
 
-def open_pdf_analysis_app():
-    app_file_path = os.path.abspath(r"C:\Users\krtej\Jupyter_folder\git\College_projects\Fraud\Final_Project\Dashboard\benford.py")
-    subprocess.Popen(["streamlit", "run", app_file_path])
-
 # Get the current directory of the script
 script_dir = os.path.dirname(os.path.abspath(__file__))
+
+def open_pdf_analysis_app():
+    app_file_path = os.path.join(script_dir, "benford.py")
+    subprocess.Popen(["streamlit", "run", app_file_path])
+
 
 # Define the directory where your data files are located
 data_dir = os.path.join(script_dir, 'data', 'prep_data')
