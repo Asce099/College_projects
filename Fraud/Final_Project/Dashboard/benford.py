@@ -45,8 +45,6 @@ st.title("Benford Model Testing for Detecting Earning Manipulators")
 uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"])
 
 if uploaded_file is not None:
-    st.write("Processing the uploaded PDF...")
-
     # Set a timeout duration (in seconds) to prevent long processing times
     timeout_duration = 60  # Adjust as needed
 
@@ -112,5 +110,8 @@ if uploaded_file is not None:
 
                 fig = go.Figure(data=[observed_bar, expected_line], layout=layout)
                 st.plotly_chart(fig)
+
+                # Update the message to indicate results
+                st.subheader("Results:")
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
