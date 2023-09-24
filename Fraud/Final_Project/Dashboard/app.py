@@ -6,6 +6,7 @@ import pandas as pd
 import os
 import plotly.graph_objects as go
 import numpy as np
+import subprocess
 
 # The rest of your Streamlit app goes here
 # Add your financial dashboard components below this line
@@ -20,8 +21,12 @@ years = ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021',
 # Define the fundamental columns you want to extract
 fundamental_columns = [
     'ticker', 'industry', 'NIFTY closing', 'Date', 'Market Capitalisation',
-    'EPS', 'P/E', 'P/B', 'Beta', 'Industry PE', 'Industry PB', 'Risk_Score', 'risk'
+    'EPS', 'P/E', 'P/B', 'Beta', 'Industry PE', 'Industry PB', 'Risk_Score', 'risk', 'alt-score'
 ]
+
+def open_pdf_analysis_app():
+    subprocess.Popen(["streamlit", "run", "benford.py"])
+
 # Get the current directory of the script
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -69,28 +74,43 @@ for file in financial_data_files:
 
 # Sidebar for selecting the company
 selected_company = st.sidebar.selectbox("Select Company", list(financial_data['current_assets'].keys()))
-##################################################################################################################################################Company selected
-# Extract the selected company's data
 selected_company_data = financial_data['current_assets'][selected_company]
-# Create a Streamlit sidebar to display selected company information
 
-st.sidebar.markdown(f"**{selected_company} Information**")
+st.header(f"**Data For**: {selected_company}, **Ticker**: {selected_company_data['ticker']}, **Industry:** {selected_company_data['industry']}")
+##################################################################################################################################################Company selected
+
+# Create a Streamlit sidebar to display selected company information
+st.sidebar.markdown(f"**Selected Company Information**")
 st.sidebar.markdown(f"**Company Name:** {selected_company}")
 st.sidebar.markdown(f"**Ticker:** {selected_company_data['ticker']}")
+st.sidebar.markdown(f"**Industry:** {selected_company_data['industry']}")
 st.sidebar.markdown(f"**Beta:** {selected_company_data['Beta']}")
 st.sidebar.markdown(f"**EPS:** {selected_company_data['EPS']}")
 st.sidebar.markdown(f"**Market Cap:** {selected_company_data['Market Capitalisation']}")
-st.sidebar.markdown(f"**Industry:** {selected_company_data['industry']}")
 
-# Create KPI cards using Plotly with custom color and font
+# Calculate the difference from 1.8 for Altman Z-Score
+altman_z_score = selected_company_data['alt-score']
+altman_z_score_difference = altman_z_score - 1.8
+
+# Create KPI cards using Plotly
 fig = go.Figure()
+
+fig.add_trace(
+    go.Indicator(
+        mode="number+delta",  # Number + Delta mode
+        value=altman_z_score,
+        title="Altman-Z Score",
+        delta={'reference': 1.8, 'relative': False},  # Calculate delta relative to 1.8
+        domain={'x': [0.0, 0.3], 'y': [0.5, 0.9]},  # Adjust the domain for the Altman Z-Score card, increased height
+    )
+)
 
 fig.add_trace(
     go.Indicator(
         mode="number",
         value=selected_company_data['Beta'],
         title="Beta",
-        domain={'x': [0, 0.25], 'y': [0, 1]},
+        domain={'x': [0.35, 0.6], 'y': [0.3, 0.6]},
     )
 )
 
@@ -99,7 +119,7 @@ fig.add_trace(
         mode="number",
         value=selected_company_data['EPS'],
         title="EPS",
-        domain={'x': [0.35, 0.6], 'y': [0, 1]},
+        domain={'x': [0.7, 1], 'y': [0.3, 0.6]},
     )
 )
 
@@ -107,14 +127,30 @@ fig.add_trace(
     go.Indicator(
         mode="number",
         value=selected_company_data['Market Capitalisation'],
-        title="Market Cap in Million ₹",
-        domain={'x': [0.7, 1], 'y': [0, 1]},
+        title="Market Cap",
+        domain={'x': [0.35, 0.6], 'y': [0.7, 1]},
     )
 )
 
-fig.update_layout(
-    grid={'rows': 1, 'columns': 3, 'xgap': 0.1},  # Adjust the xgap value
+fig.add_trace(
+    go.Indicator(
+        mode="number",
+        value=1,
+        title="Industry",
+        domain={'x': [0.7, 1], 'y': [0.7, 1]},
+    )
 )
+
+
+fig.update_layout(
+    grid={'rows': 2, 'columns': 2, 'xgap': 0.4},
+)
+
+# Update the placeholder text for the 'Industry' card
+fig.update_traces(selector=dict(title="Industry"), text=selected_company_data['industry'])
+
+# Increase the height of the plot
+fig.update_layout(height=600)  # Adjust the height as needed
 
 st.plotly_chart(fig)
 #########################################################################################################################################KPIs
@@ -163,7 +199,7 @@ fig = go.Figure(go.Indicator(
 # Define labels for the numeric values
 risk_labels = {1: 'Highly risky', 2: 'Moderately risky', 3: 'Non risky', 4: 'Investment Worthy'}
 
-st.header(f"Risk Rating: {risk_labels[selected_company_risk]}")
+st.header(f"Fundamental Risk Rating: {risk_labels[selected_company_risk]}")
 # Show the gauge chart
 st.plotly_chart(fig)
 ######################################################################################################################################################Risk Meter
@@ -457,6 +493,15 @@ st.markdown("")
 st.markdown("")
 st.markdown("")
 st.markdown("")
+# Create a button to open the PDF analysis app
+if st.button("If you would like to check book manipulation Using Annual Report PDFs click here"):
+    open_pdf_analysis_app()  # Call the function to open the PDF analysis app
 
-
+# Add an empty Markdown element to create some space
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
+st.markdown("")
 st.write('<div style="text-align: right;"><span style="font-weight: bold; font-size: larger;">Submitted by Group 5</span></div>', unsafe_allow_html=True)
