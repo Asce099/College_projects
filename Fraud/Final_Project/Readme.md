@@ -1,5 +1,5 @@
 ## This Repository Contains Fraud Analytics Final project files
-#### **'Dashboard'** Folder contains necessary deployment file whie the **'Not Necessary'** folder contains other files which necessary to test and clean during initial phase of project and so they can be ignored 
+#### **'Dashboard'** Folder contains necessary deployment file whie the **'Not Necessary'** folder contains other files which were necessary to test and clean during initial phase of project and so they can be ignored 
 
 ### Aim:
 - Provide a Health Analysis of Various Listed Equities on Indian Exchanges
