@@ -10,4 +10,4 @@ This repository showcases authors completed college projects.
 - Web Scraping
 - Fraud Detcetion
 - Data Visualization
-
+- Streamlit Deployment
